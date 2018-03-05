@@ -45,7 +45,7 @@ Result on videos
 [![Video White](https://github.com/uscgongjianxin/Find-lane-lines/blob/master/white.gif?raw=true)](https://www.youtube.com/watch?v=ITqM2x8idpU)
 
 ### solidYellowLeft
-[![Video White](https://github.com/windowsub0406/SelfDrivingCarND/blob/master/SDC_project_1/result_yellow.gif?raw=true)](https://youtu.be/cC4IFJYqVOY)
+[![Video White](https://github.com/uscgongjianxin/Find-lane-lines/blob/master/yellow.gif?raw=true)](https://www.youtube.com/watch?v=9QWz4ufxC1Q)
 
 License
 ---
