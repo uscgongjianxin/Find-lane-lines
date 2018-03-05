@@ -42,7 +42,7 @@ A browser window will appear showing the contents of the current directory.  Cli
 Result on videos
 ---
 ### solidWhiteRight
-[![Video White](https://github.com/uscgongjianxin/Find-lane-lines/blob/master/white.mp4?raw=true)](https://youtu.be/Un9S84z3U4w)
+[![Video White](https://github.com/uscgongjianxin/Find-lane-lines/blob/master/white.gif?raw=true)](https://www.youtube.com/watch?v=ITqM2x8idpU)
 
 ### solidYellowLeft
 [![Video White](https://github.com/windowsub0406/SelfDrivingCarND/blob/master/SDC_project_1/result_yellow.gif?raw=true)](https://youtu.be/cC4IFJYqVOY)
